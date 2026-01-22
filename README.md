@@ -42,3 +42,26 @@ In this repository will be presented my practice in the MISIS University
 
 Процесс печати на 3D-принтере:
 https://github.com/user-attachments/assets/416c46bb-209b-4369-8d4d-7ed641aa5d0d
+
+Конечный результат задания (Рисунок 6):
+![3d-pechat-itog](https://github.com/user-attachments/assets/97c7573e-76d8-41e8-bb80-8c9fae18a693)
+
+## **Улучшение рабочего пространства FabLab**
+**Описание задачи:**
+Третьей задачей практики было участие в реконструкции рабочего пространства FabLab, включающее уборку территории, демонтаж старой стены и установку новой стены для организации пространства.
+**Процесс выполнения:**
+В ходе выполнения было выполнено:
+1) Снят принтер с направляющими
+2) Снят постер и рамка
+3) Выброшен мусор
+4) Ощищены промышленные пылесосы
+5) Остортировано содержимое контейнеров, находящихся на старой стене (Рисунок 7 и 8)
+<img width="435" height="318" alt="{AF2D7285-699F-4BA7-AE39-5F098B1DDFEF}" src="https://github.com/user-attachments/assets/bd11838b-36cf-4b4a-a7fb-8528379e0be3" />
+<img width="427" height="250" alt="{DDAF384C-0707-4DD8-B8E9-7B8E8142467E}" src="https://github.com/user-attachments/assets/8b318f6f-dfee-4d0b-b1e4-e0efbfd9ca26" />
+
+И не только там (Рисуок 9)
+<img width="441" height="333" alt="{EA50CA17-4350-4A7F-94C0-810BF111DD59}" src="https://github.com/user-attachments/assets/8cf7a4ea-39eb-4074-b069-000529f88f1b" />
+
+5) Разобран робот (Рисунок 10)
+<img width="441" height="390" alt="{D56DB4D8-FCE9-4195-B3A1-F04D659C43A9}" src="https://github.com/user-attachments/assets/6e7b225f-2264-421d-985f-86c139864433" />
+
