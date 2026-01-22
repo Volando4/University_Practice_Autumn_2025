@@ -19,10 +19,13 @@ In this repository will be presented my practice in the MISIS University
 <img width="576" height="716" alt="image" src="https://github.com/user-attachments/assets/79265c9a-0a1e-4a1d-b11a-c45b635bec49" />
 На основе данного изображения был создан раскрой для лазера, по которому происходила резка (Рисунок 2).
 ![lazer-fanera](https://github.com/user-attachments/assets/833c6f02-e401-4c6f-80c1-0258fafd04be)
+
 Процесс лазерной резки:
-[(video-lazerrezka_890S1vGC.mp4)](https://github.com/Volando4/University_Practice_Autumn_2025/blob/main/video-lazerrezka_890S1vGC.mp4)
+(https://github.com/Volando4/University_Practice_Autumn_2025/blob/main/video-lazerrezka_890S1vGC.mp4)
+
 Полученная фигурка из фанеры (Рисунок 3).
 ![lazer-itog](https://github.com/user-attachments/assets/e17cd0b4-3abd-494c-9bad-a37b4c58212e)
+
 ## **Работа с 3D-принтерами и изготовление инструментов**
 **Описание задачи:**
 Второй задачей практики было освоение технологии 3D-печати и применение её для изготовления специализированных инструментов из PLA и PETG пластиков. Целью было создание функциональных инструментов, которые могли бы быть использованы в повседневной работе FabLab.
