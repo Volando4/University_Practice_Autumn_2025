@@ -20,7 +20,7 @@ In this repository will be presented my practice in the MISIS University
 На основе данного изображения был создан раскрой для лазера, по которому происходила резка (Рисунок 2).
 ![lazer-fanera](https://github.com/user-attachments/assets/833c6f02-e401-4c6f-80c1-0258fafd04be)
 Процесс лазерной резки:
-
+[(video-lazerrezka_890S1vGC.mp4)](https://github.com/Volando4/University_Practice_Autumn_2025/blob/main/video-lazerrezka_890S1vGC.mp4)
 Полученная фигурка из фанеры (Рисунок 3).
 ![lazer-itog](https://github.com/user-attachments/assets/e17cd0b4-3abd-494c-9bad-a37b4c58212e)
 ## **Работа с 3D-принтерами и изготовление инструментов**
