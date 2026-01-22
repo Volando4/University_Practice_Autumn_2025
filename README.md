@@ -18,4 +18,6 @@ In this repository will be presented my practice in the MISIS University
 На создание модели для резки меня вдохновили снежинки, которые вырезаются из бумаги (Рисунок 1).
 <img width="576" height="716" alt="image" src="https://github.com/user-attachments/assets/79265c9a-0a1e-4a1d-b11a-c45b635bec49" />
 На основе данного изображения был создан раскрой для лазера, по которому происходила резка (Рисунок 2).
-![lazer-fanera](https://github.com/user-attachments/assets/eac631c8-5b0d-41b3-b365-06c268be8998)
+![lazer-fanera](https://github.com/user-attachments/assets/833c6f02-e401-4c6f-80c1-0258fafd04be)
+Полученная фигурка из фанеры (Рисунок 3).
+![lazer-fanera](https://github.com/user-attachments/assets/576f1875-ed49-4e8a-bf5a-cfb003916f81)
