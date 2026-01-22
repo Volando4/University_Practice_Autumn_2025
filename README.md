@@ -65,3 +65,4 @@ https://github.com/user-attachments/assets/416c46bb-209b-4369-8d4d-7ed641aa5d0d
 5) Разобран робот (Рисунок 10)
 <img width="441" height="390" alt="{D56DB4D8-FCE9-4195-B3A1-F04D659C43A9}" src="https://github.com/user-attachments/assets/6e7b225f-2264-421d-985f-86c139864433" />
 
+## **Создание органайзеров для инструментов**
