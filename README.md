@@ -17,7 +17,7 @@ In this repository will be presented my practice in the MISIS University
 В ходе работы нужно было изучить работу лазерного станка, включая настройку мощности лазера, скорости перемещения, фокусировки и параметров для различных материалов. Особое внимание уделил безопасности при работе с оборудованием.
 На создание модели для резки меня вдохновили снежинки, которые вырезаются из бумаги (Рисунок 1).
 
-<img width="576" height="450" alt="image" src="https://github.com/user-attachments/assets/79265c9a-0a1e-4a1d-b11a-c45b635bec49" />
+<img width="576" height="700" alt="image" src="https://github.com/user-attachments/assets/79265c9a-0a1e-4a1d-b11a-c45b635bec49" />
 
 На основе данного изображения был создан раскрой для лазера, по которому происходила резка (Рисунок 2).
 ![lazer-fanera](https://github.com/user-attachments/assets/833c6f02-e401-4c6f-80c1-0258fafd04be)
