@@ -66,3 +66,14 @@ https://github.com/user-attachments/assets/416c46bb-209b-4369-8d4d-7ed641aa5d0d
 <img width="441" height="390" alt="{D56DB4D8-FCE9-4195-B3A1-F04D659C43A9}" src="https://github.com/user-attachments/assets/6e7b225f-2264-421d-985f-86c139864433" />
 
 ## **Создание органайзеров для инструментов**
+Были выбраны следующие инструменты, для которых будут созданы органайзеры:
+* Шуруповерты,  аккумуляторы и зарядные устройства к ним (Рисунок 11)
+<img width="347" height="325" alt="{8FB59F9D-48D6-4148-840E-CF41532B4BD6}" src="https://github.com/user-attachments/assets/969be54a-b962-4a30-90f8-174058ac72d9" />
+
+* Клеевые пистолеты (Рисунок 12)
+<img width="266" height="203" alt="{7FFF9D4E-B396-47B2-8CBA-755C954CF092}" src="https://github.com/user-attachments/assets/c042eb97-989b-4bae-8aff-350c705af784" />
+
+* Провода (Рисунок 13)
+<img width="268" height="203" alt="{737C8B73-C502-4AEF-88C9-06E49E4E48DD}" src="https://github.com/user-attachments/assets/802c63a3-f6f1-4a12-98f3-98b6064850b1" />
+
+
