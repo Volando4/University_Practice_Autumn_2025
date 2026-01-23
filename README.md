@@ -107,6 +107,7 @@ In this repository will be presented my practice in the MISIS University
 Для этих вещей были предложены следующие решения (Рисунок 24-25):
 
 <img width="519" height="212" alt="{269CBBC1-3E8E-48D0-9153-489EE7CD1F90}" src="https://github.com/user-attachments/assets/2273fb9e-347d-4b69-b951-01065269d456" />
+
 ![1000027976](https://github.com/user-attachments/assets/b4bffa29-a3c4-4ecb-9f9d-925964525393)
 
 Основным был выбран референс использованный в рисунке 25, так как эта конструкция позволяет хранить на нужном месте акумуляторы определённых видов, которых в нашем случае много, таким образом эта конструкция является наиболее рациональной.
