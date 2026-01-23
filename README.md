@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/416c46bb-209b-4369-8d4d-7ed641aa5d0d
 
 Конечный результат задания (Рисунок 6):
 
-<img src="3D-printing/3d-pechat-itog.jpg" alt="Конечный результат 3D-печати" width="400" height="400" />
+<img src="3D-printing/3d-pechat-itog.jpg" alt="Конечный результат 3D-печати" width="300" height="400" />
 
 ## **Улучшение рабочего пространства FabLab**
 **Описание задачи:**
