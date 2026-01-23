@@ -26,6 +26,7 @@ In this repository will be presented my practice in the MISIS University
 [Нажмите, чтобы посмотреть видео с процессом лазерной резки](https://github.com/Volando4/University_Practice_Autumn_2025/blob/main/video-lazerrezka_890S1vGC.mp4)
 
 Полученная фигурка из фанеры (Рисунок 3).
+
 <img width="500" height="500" alt="lazer-itog" src="https://github.com/user-attachments/assets/e17cd0b4-3abd-494c-9bad-a37b4c58212e" />
 
 ## **РАБОТА С 3D-ПРИНТЕРАМИ И ИЗГОТОВЛЕНИЕ ИНСТРУМЕНТОВ**
