@@ -79,6 +79,12 @@ https://github.com/user-attachments/assets/416c46bb-209b-4369-8d4d-7ed641aa5d0d
 Эти инструменты должны быть расположены на данной стене (Рисунок 14):
 <img width="515" height="250" alt="{A027496E-CC97-4A89-9309-BC6E977CB354}" src="https://github.com/user-attachments/assets/6c0abf54-f64d-4fdf-ae2c-7cabab24bba2" />
 
-С такой размерной сеткой (Рисунок 15): <img width="566" height="292" alt="{3832B62C-4CB0-4596-8002-8E5864A102C7}" src="https://github.com/user-attachments/assets/96ccdca2-0354-47d6-a088-955d947219bf" />
+С такой размерной сеткой (Рисунок 15): 
+<img width="566" height="292" alt="{3832B62C-4CB0-4596-8002-8E5864A102C7}" src="https://github.com/user-attachments/assets/96ccdca2-0354-47d6-a088-955d947219bf" />
  
 ### Провода 
+Для организовонного хранения проводов в качестве референсов были найдены следующие картинки:
+<img width="457" height="354" alt="{27A00525-94B2-465D-ABB9-383A9702D0CB}" src="https://github.com/user-attachments/assets/054a887c-16da-4b29-bb6a-45e7950d9073" /><img width="251" height="490" alt="{9B84124E-271D-4951-B843-55663B19296A}" src="https://github.com/user-attachments/assets/b9da7ca0-12ae-493e-965a-83ebce799bef" /><img width="406" height="323" alt="{21AFFA68-5B06-4C6C-822A-8126A52FA8BF}" src="https://github.com/user-attachments/assets/1425257e-38ce-407f-bee5-ae0706b27c19" /><img width="397" height="315" alt="{7C707BB7-D8F2-478B-A646-B6E620D77EDE}" src="https://github.com/user-attachments/assets/5d2fe01d-eac1-4fc2-928f-753b41791105" />
+
+
+
