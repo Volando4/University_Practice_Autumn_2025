@@ -23,7 +23,7 @@ In this repository will be presented my practice in the MISIS University
 ![lazer-fanera](https://github.com/user-attachments/assets/833c6f02-e401-4c6f-80c1-0258fafd04be)
 
 Процесс лазерной резки:
-(https://github.com/Volando4/University_Practice_Autumn_2025/blob/main/video-lazerrezka_890S1vGC.mp4)
+[Открыть видео с процессом лазерной резки](https://github.com/Volando4/University_Practice_Autumn_2025/blob/main/video-lazerrezka_890S1vGC.mp4)
 
 Полученная фигурка из фанеры (Рисунок 3).
 ![lazer-itog](https://github.com/user-attachments/assets/e17cd0b4-3abd-494c-9bad-a37b4c58212e)
@@ -41,7 +41,7 @@ In this repository will be presented my practice in the MISIS University
 <img width="405" height="475" alt="{C18FA959-3866-4D95-9099-E0890D27C635}" src="https://github.com/user-attachments/assets/358fad1b-a40d-4d9c-9e2e-93368f1f841b" />
 
 Процесс печати на 3D-принтере:
-[Открыть видео](https://github.com/user-attachments/assets/96b8af94-7624-4158-96ba-674ea9ef7c8f)
+[Открыть видео с процессом 3D-печати](https://github.com/user-attachments/assets/96b8af94-7624-4158-96ba-674ea9ef7c8f)
 
 Конечный результат задания (Рисунок 6):
 
