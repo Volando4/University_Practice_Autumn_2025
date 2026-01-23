@@ -91,7 +91,7 @@ In this repository will be presented my practice in the MISIS University
 <img width="566" height="292" alt="{3832B62C-4CB0-4596-8002-8E5864A102C7}" src="https://github.com/user-attachments/assets/96ccdca2-0354-47d6-a088-955d947219bf" />
  
 ### Провода 
-Для организовонного хранения проводов в качестве референсов были найдены следующие картинки (Рисунок 17-20):
+Для организованного хранения проводов в качестве референсов были найдены следующие картинки (Рисунок 17-20):
 <img width="457" height="354" alt="{27A00525-94B2-465D-ABB9-383A9702D0CB}" src="https://github.com/user-attachments/assets/054a887c-16da-4b29-bb6a-45e7950d9073" /><img width="251" height="490" alt="{9B84124E-271D-4951-B843-55663B19296A}" src="https://github.com/user-attachments/assets/b9da7ca0-12ae-493e-965a-83ebce799bef" /><img width="406" height="323" alt="{21AFFA68-5B06-4C6C-822A-8126A52FA8BF}" src="https://github.com/user-attachments/assets/1425257e-38ce-407f-bee5-ae0706b27c19" /><img width="397" height="315" alt="{7C707BB7-D8F2-478B-A646-B6E620D77EDE}" src="https://github.com/user-attachments/assets/5d2fe01d-eac1-4fc2-928f-753b41791105" />
 
 Но все эти варианты подходят для определённых типов проводов, которые имеют одно и тоже назначение, а в нашем случае почти все провода, находящиеся в коробке (см. Рисунок 13) не имеют общего назначения или являются отрезками, обрезками от большого провода, таким образом, если бы среди этих проводов были бы нужные провода, которые имело смысл сортировать и они необходимы для нахождения в рабочей зоне у стены, то предлагаемый вариант с коробкой, с отсеками, или же для проводов типа Female-Female, Male-Male, Male-Female использовать соответствующий вариант из предложенных.
