@@ -41,10 +41,9 @@ In this repository will be presented my practice in the MISIS University
 <img width="405" height="475" alt="{C18FA959-3866-4D95-9099-E0890D27C635}" src="https://github.com/user-attachments/assets/358fad1b-a40d-4d9c-9e2e-93368f1f841b" />
 
 Процесс печати на 3D-принтере:
-[Процесс 3D-печати](3D-printing/3d-printing_ZcalRptx (online-video-cutter.com).mp4)
+https://github.com/user-attachments/assets/96b8af94-7624-4158-96ba-674ea9ef7c8f
 
 Конечный результат задания (Рисунок 6):
-
 <img src="3D-printing/3d-pechat-itog.jpg" alt="Конечный результат 3D-печати" width="300" height="400" />
 
 ## **Улучшение рабочего пространства FabLab**
