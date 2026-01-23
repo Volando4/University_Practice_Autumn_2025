@@ -62,8 +62,8 @@ In this repository will be presented my practice in the MISIS University
 1) Снят принтер с направляющими
 2) Снят постер и рамка
 3) Выброшен мусор
-4) Ощищены промышленные пылесосы
-5) Остортировано содержимое контейнеров, находящихся на старой стене (Рисунок 8 и 9)
+4) Очищены промышленные пылесосы
+5) Отсортировано содержимое контейнеров, находящихся на старой стене (Рисунок 8 и 9)
 <img width="435" height="318" alt="{AF2D7285-699F-4BA7-AE39-5F098B1DDFEF}" src="https://github.com/user-attachments/assets/bd11838b-36cf-4b4a-a7fb-8528379e0be3" />
 <img width="427" height="250" alt="{DDAF384C-0707-4DD8-B8E9-7B8E8142467E}" src="https://github.com/user-attachments/assets/8b318f6f-dfee-4d0b-b1e4-e0efbfd9ca26" />
 
