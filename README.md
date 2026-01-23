@@ -78,6 +78,7 @@ https://github.com/user-attachments/assets/416c46bb-209b-4369-8d4d-7ed641aa5d0d
 
 Эти инструменты должны быть расположены на данной стене (Рисунок 14):
 <img width="515" height="250" alt="{A027496E-CC97-4A89-9309-BC6E977CB354}" src="https://github.com/user-attachments/assets/6c0abf54-f64d-4fdf-ae2c-7cabab24bba2" />
+
 С такой размерной сеткой (Рисунок 15): <img width="566" height="292" alt="{3832B62C-4CB0-4596-8002-8E5864A102C7}" src="https://github.com/user-attachments/assets/96ccdca2-0354-47d6-a088-955d947219bf" />
  
 ### Провода 
