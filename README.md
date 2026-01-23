@@ -44,7 +44,7 @@ In this repository will be presented my practice in the MISIS University
 https://github.com/user-attachments/assets/416c46bb-209b-4369-8d4d-7ed641aa5d0d
 
 Конечный результат задания (Рисунок 6):
-![3d-pechat-itog](https://github.com/user-attachments/assets/97c7573e-76d8-41e8-bb80-8c9fae18a693)
+https://github.com/user-attachments/assets/-printing/3d-pechat-itog.jpg
 
 ## **Улучшение рабочего пространства FabLab**
 **Описание задачи:**
