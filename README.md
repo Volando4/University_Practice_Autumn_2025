@@ -97,6 +97,7 @@ In this repository will be presented my practice in the MISIS University
 
 ### Шуруповёрты и клеевые пистолеты
 Для данных инструментов были предложены следующие референсы (Рисунок 21-22):
+
 <img width="341" height="302" alt="{2D73A3DC-5D30-4126-B00A-DE4D0ED993A5}" src="https://github.com/user-attachments/assets/4bde8349-2308-47c2-970b-ca453f53a3b3" /> <img width="407" height="143" alt="{C79892AF-8CF3-4F65-81FA-D385E9952C66}" src="https://github.com/user-attachments/assets/a8e8f21d-afc1-4715-97a7-7e7111804adc" />
 
 По ним была создана 3D-модель, подходящая под сетку нашей стены (Рисунок 23):
@@ -104,6 +105,7 @@ In this repository will be presented my practice in the MISIS University
 
 ### Аккумуляторы и зарядные станции
 Для этих вещей были предложены следующие решения (Рисунок 24-25):
+
 <img width="519" height="212" alt="{269CBBC1-3E8E-48D0-9153-489EE7CD1F90}" src="https://github.com/user-attachments/assets/2273fb9e-347d-4b69-b951-01065269d456" />
 ![1000027976](https://github.com/user-attachments/assets/b4bffa29-a3c4-4ecb-9f9d-925964525393)
 
