@@ -66,7 +66,7 @@ In this repository will be presented my practice in the MISIS University
 <img width="435" height="318" alt="{AF2D7285-699F-4BA7-AE39-5F098B1DDFEF}" src="https://github.com/user-attachments/assets/bd11838b-36cf-4b4a-a7fb-8528379e0be3" />
 <img width="427" height="250" alt="{DDAF384C-0707-4DD8-B8E9-7B8E8142467E}" src="https://github.com/user-attachments/assets/8b318f6f-dfee-4d0b-b1e4-e0efbfd9ca26" />
 
-И не только там (Рисуок 10)
+И не только там (Рисунок 10)
 <img width="441" height="333" alt="{EA50CA17-4350-4A7F-94C0-810BF111DD59}" src="https://github.com/user-attachments/assets/8cf7a4ea-39eb-4074-b069-000529f88f1b" />
 
 5) Разобран робот (Рисунок 11)
